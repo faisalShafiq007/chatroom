@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chatty</string>
+    <string name="facebook_app_id">2358559894159317</string>
+    <string name="fb_login_protocol_scheme">fb2358559894159317</string>
+    <string name="sign_up"><u>Sign up</u></string>
+
+    <string name="title_activity_image">Image</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
